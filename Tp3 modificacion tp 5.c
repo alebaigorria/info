@@ -26,6 +26,7 @@ int main() {
 	printf("    >=30   |  obesidad\n");
 	
 	
+	//link del repo : https://github.com/alebaigorria/info
 	
 	
 	return 0;
